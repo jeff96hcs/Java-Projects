@@ -46,3 +46,11 @@
 
 - User interface
    DebuggerUI
+
+- Test files:
+   test.x
+   fib.x
+   factorial.x
+   test.x.cod (for debugger mode only)
+   fib.x.cod (for debugger mode only)
+   factorial.x.cod (for debugger mode only)
